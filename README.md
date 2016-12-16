@@ -7,7 +7,7 @@ A small directive to rotate the dom element
  <div data-rotateBy="<degree-to-rotate>"></<div>
  ```
  
- ## Example
+## Example
  
  ```html
  <div data-rotateBy="12"></<div>
